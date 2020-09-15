@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS460_Project3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS460_Project3">
+				<Option output="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug/CS460_Project3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS460_Project3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS460_Project3/fast">
+				<Option output="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug/CS460_Project3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS460_Project3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/fvaldecanas&apos;s\ home/cs460/FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/ArithExpr.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/ArithExpr.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Descriptor.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Descriptor.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Functions.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Functions.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Parser.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Parser.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Range.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Range.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Statements.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Statements.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/SymTab.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/SymTab.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Testlist.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Testlist.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Token.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Token.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Tokenizer.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/Tokenizer.hpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/main.cpp">
+			<Option target="CS460_Project3"/>
+		</Unit>
+		<Unit filename="/Volumes/fvaldecanas&apos;s home/cs460/FinalProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
